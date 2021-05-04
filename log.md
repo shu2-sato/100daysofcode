@@ -6,7 +6,7 @@
   
 ### day36 2021/5/3
 
-day26: API
+day36: API
 stock
 news
 sms のapiを使ってのproject
