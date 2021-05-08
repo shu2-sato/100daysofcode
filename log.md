@@ -5,10 +5,15 @@
 ## 学習ログ
 
 
-###
+### day39 2021/05/08
+day39 :api
+API Flight searchAPIの機能使い方がわからず、2日かかった、
 
-### day36 2021/5/3
+関数の引数にClassを渡すとき、objectであることを指定すると、受け取った先のコーディングでのメソッド選択が便利になる。
+def send_alert(self,flight : FlightData):
+呼ばれるほうのClassとデータobjectは本来関係ない場合は、送るmsg_textだけを引数で渡すほうが自由度が高いので望ましい。
 
+### day 36 2021/05/03
 day36: API
 stock
 news
