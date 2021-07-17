@@ -31,3 +31,32 @@ https://www.postman.com/
 
 SQLALCHEMY ORM
 https://docs.sqlalchemy.org/en/14/
+
+
+webデザインDay65
+
+色パターン
+https://colorhunt.co/
+https://color.adobe.com/ja/create/color-wheel
+
+デザイン事例
+https://www.canva.com/
+https://collectui.com/
+
+https://www.awwwards.com/websites/com/
+http://ui-patterns.com/patterns
+
+
+テンプレート
+https://sneakpeekit.com/
+ボタンジェネレータ
+https://css3buttongenerator.com/
+
+NAV BAR/カラー、
+https://getbootstrap.com/docs/4.5/components/navbar/
+https://getbootstrap.com/docs/4.5/components/buttons/
+https://getbootstrap.com/docs/4.5/components/navbar/#toggler
+
+オンラインテストツール
+Codeplay
+https://www.codeply.com/
