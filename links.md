@@ -24,7 +24,7 @@ https://wtforms.readthedocs.io/en/2.3.x/validators/
 Day67 link
 
 https://flask-login.readthedocs.io/en/latest/
-
+https://flask-login.readthedocs.io/en/latest/#login-example
 
 Postman Apiテスト＆ドキュメントツール
 https://www.postman.com/
