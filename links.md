@@ -1,5 +1,8 @@
-Flask/jinja/
 
+Gravatar
+https://pythonhosted.org/Flask-Gravatar/
+
+Flask/jinja/
 
 https://flask.palletsprojects.com/en/2.0.x/
 

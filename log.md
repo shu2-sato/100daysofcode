@@ -4,12 +4,20 @@
 
 ## 学習ログ
 
-### day68  2021/07/17
+### day69　complete 2021/07/23
+flask-login、WTFFROMのまとめでのBlog更新、
+TableのRetation作成
+Flasl-gavatarなど
+1日のテーマをこなすのに、3日くらい掛かっている。
+日数としては、100日を超えているんだけど、やっと70％地点
+
+
+### day68 complete 2021/07/17
 flask-logonの使い方
 ログイン状態のチェックやurlのログイン制約をかけれるのは、便利。
 
 
-###  day67  2021/07/16
+###  day67complete  2021/07/14
 Flask、WTFForm,Bootstrapを使ったタスクが続いているが、
 コースタスクに2、3日かかるタスクが増えてきた。
 
