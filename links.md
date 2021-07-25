@@ -1,4 +1,10 @@
 
+
+heroku
+https://dashboard.heroku.com/apps
+Gunicon
+https://gunicorn.org/
+
 Gravatar
 https://pythonhosted.org/Flask-Gravatar/
 

@@ -4,6 +4,12 @@
 
 ## 学習ログ
 
+### day70 complete 2021/07/25
+herokuへの登録
+Github使った deploy
+gunicornの利用
+Postgreへの変更
+
 ### day69　complete 2021/07/23
 flask-login、WTFFROMのまとめでのBlog更新、
 TableのRetation作成
