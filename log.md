@@ -4,6 +4,14 @@
 
 ## 学習ログ
 
+### day71 complete 2021/07/25
+pandasとcolabolatry
+
+ipynbと同じdirectoryに置いたファイルであれば、drive mountや認証せずにそのまま使えた。
+Pandasで　HTMLのtableをそのまま読み取れる。read_htmlでスクライピングもできる。
+
+
+
 ### day70 complete 2021/07/25
 herokuへの登録
 Github使った deploy
