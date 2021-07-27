@@ -4,6 +4,19 @@
 
 ## 学習ログ
 
+### day72 complete 2021/07/27
+matplotlib.pyplot.plot
+
+ローリング平均で移動平均ができて、カラムをForで回して１つのグラフに複数の線を弾ける。
+便利だ
+# 平均すると、6または12の観測値を平均する、ローリング平均
+roll_df = reshaped_df.rolling(window=6).mean()
+
+for column in roll_df.columns:
+  plt.plot(roll_df.index, roll_df[column],
+           linewidth=3, label=roll_df[column].name)
+
+
 ### day71 complete 2021/07/25
 pandasとcolabolatry
 
