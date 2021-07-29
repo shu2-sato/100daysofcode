@@ -4,6 +4,14 @@
 
 ## 学習ログ
 
+### DAY73 coplete 2021/07/29
+pandas.DataFrame.agg
+matplotlib.pyplot.scatter
+
+matplotlibやpandasの関数色々
+外部KEYでmerge
+
+
 ### day72 complete 2021/07/27
 matplotlib.pyplot.plot
 
