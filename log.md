@@ -3,8 +3,16 @@
 私の#100DaysOfCodeチャレンジの学習ログです。2021/03/31開始。
 
 ## 学習ログ
+### day74 complete 2021/08/05
+周期性を変更して時系列データを他のデータと同等にする方法。.resample()
+ロケーターを使用して、タイムライン (グラフ上の軸など) のスタイルを改善する方法。matplotlib.dates
 
-### DAY73 coplete 2021/07/29
+移動平均の計算
+roll_df_unemployment = df_unemployment[['UE_BENEFITS_WEB_SEARCH','UNRATE']].rolling(window=6).mean()
+ax1.plot(df_unemployment.MONTH,roll_df_unemployment.UNRATE,color='purple',linewidth=3,linestyle='--')
+ax2.plot(df_unemployment.MONTH,roll_df_unemployment.UE_BENEFITS_WEB_SEARCH,color='skyblue',linewidth=3,marker='o')
+
+### DAY73 complete 2021/07/29
 pandas.DataFrame.agg
 matplotlib.pyplot.scatter
 
