@@ -1,4 +1,11 @@
 
+
+http://serverlesscalc.com/
+
+こちらのサイトにNCRONTABの式（ */30 * * * * * 等）を入れると、人間の言葉（日本語・英語等）でその意味を説明してくれます。
+Cron Expression Descriptor - make a cron schedule human readable (bradymholt.github.io)
+https://bradymholt.github.io/cron-expression-descriptor/?locale=ja
+
 matplotlib
 https://matplotlib.org/
 
