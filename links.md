@@ -1,3 +1,7 @@
+
+Azure 認定ガイド　クラウドデベロッパーチャネル
+https://www.youtube.com/watch?v=UxYxmpmgDM8
+
 Cloud レーテンシー確認
 
 https://www.awsspeedtest.com/
