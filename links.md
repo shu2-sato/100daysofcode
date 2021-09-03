@@ -1,3 +1,11 @@
+Cloud レーテンシー確認
+
+https://www.awsspeedtest.com/
+https://www.azurespeed.com/Azure/RegionToRegionLatency
+
+
+Microsoft IDの実装
+https://docs.microsoft.com/ja-jp/learn/paths/m365-identity-associate/
 
 名前付け規則を定義する
 https://docs.microsoft.com/ja-jp/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming#example-names-compute-and-web
