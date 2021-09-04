@@ -4,6 +4,26 @@
 
 ## 学習ログ
 
+### Day76 2021/09/04
+numpy　
+
+import numpy as np
+
+import matplotlib.pyplot as plt
+from scipy import misc # contains an image of a racoon!
+from PIL import Image # for reading image files
+from numpy.random import default_rng
+
+画像を読み込んで
+my_img = Image.open(file_name)
+img_array = np.array(my_img)
+
+plt.imshow(img_array)　
+表示も回転も一発でできる
+plt.imshow(np.rot90(img_array))
+
+
+
 ### day75 復習　 2021/08/29
 
 ### Day 71から復習　　2021/08/19
