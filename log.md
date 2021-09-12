@@ -4,6 +4,10 @@
 
 ## 学習ログ
 
+### Day77 2021.09/12
+Seaborn charts 　スタイルをMatplotlibのパラメータで修正できる
+scikit-learn　　なぜ、MLと呼ばれるのだろう？　回帰分析、重回帰分析はとの違いがわからない。。
+
 ### Day76 2021/09/04
 numpy　
 
