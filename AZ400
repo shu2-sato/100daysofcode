@@ -13,3 +13,10 @@ VSでの関連付けでは、　nuget.exeで認識しないので
 を実行するが必要がある
 
 [The specified source 'MySource' is invalid](https://stackoverflow.com/questions/47775200/the-specified-source-mysource-is-invalid)
+
+ーーーーーーーーーーーーーーー
+パッケージのージョンが　更新されない　VS2022でも
+
+https://stackfinder.jp.net/questions/1158252/assembly-file-version-not-changing
+やってみたがだめだった
+
