@@ -1,0 +1,15 @@
+
+## LAB 9
+[タスク 2: NuGet パッケージの作成と公開](https://github.com/MicrosoftLearning/AZ-400JA-Designing-and-Implementing-Microsoft-DevOps-solutions/blob/master/Instructions/Labs/AZ400_M09_Package_Management_with_Azure_Artifacts.md)
+
+
+./nuget.exe push -source "PartsUnlimitedShared" -ApiKey AzDO PartsUnlimited.Shared.1.0.0.nupkg
+とすると、
+The specified source 'PartsUnlimitedShared' is invalid. Provide a valid source.
+となる
+
+VSでの関連付けでは、　nuget.exeで認識しないので
+./nuget.exe sources Add -Name "PartsUnlimitedShared" -Source <url>
+を実行するが必要がある
+
+[The specified source 'MySource' is invalid](https://stackoverflow.com/questions/47775200/the-specified-source-mysource-is-invalid)
