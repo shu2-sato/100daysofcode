@@ -1,7 +1,7 @@
 
 ## LAB 9
 [タスク 2: NuGet パッケージの作成と公開](https://github.com/MicrosoftLearning/AZ-400JA-Designing-and-Implementing-Microsoft-DevOps-solutions/blob/master/Instructions/Labs/AZ400_M09_Package_Management_with_Azure_Artifacts.md)
-
+[Azure アーティファクトを使用したパッケージ管理](https://www.azuredevopslabs.com/labs/azuredevops/packagemanagement/)
 
 ./nuget.exe push -source "PartsUnlimitedShared" -ApiKey AzDO PartsUnlimited.Shared.1.0.0.nupkg
 とすると、
